@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navbar from "../Navbar";
 import About from "../About";
-import Project from "../Project";
+import Portfolio from "../Portfolio";
 import Contact from "../Contact";
 import Footer from "../Footer";
 
@@ -13,8 +13,8 @@ export default function PortfolioContainer() {
     if (currentPage === "About") {
       return <About />;
     }
-    if (currentPage === "Project") {
-      return <Project />;
+    if (currentPage === "Portfolio") {
+      return <Portfolio />;
     }
     return <Contact />;
   };

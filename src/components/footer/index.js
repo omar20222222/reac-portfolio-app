@@ -1,8 +1,9 @@
 import React from "react";
 import twitter from "../../assets/twitter.png";
+import linkdin from "../../assets/linkedin.png";
 
 function Footer() {
-  const footerImages = [{ name: twitter }];
+  const footerImages = [{ name: twitter }, { name: linkdin }];
   return (
     <footer>
       <div className="flex-row" style={{ justifyContent: "center" }}>
