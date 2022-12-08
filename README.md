@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+## Create React App
+
+## User Story 📖
+
+AS AN employer looking for candidates with experience building single-page applications
+I WANT to view a potential employee's deployed React portfolio of work samples
+SO THAT I can assess whether they're a good candidate for an open position
+
+## My Github - https://github.com/omar20222222/reac-portfolio-app
+
+## Live deployment - https://omar20222222.github.io/reac-portfolio-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
