@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/static/js/main.f8e80f3f.chunk.js",
-    "main.js.map": "/static/js/main.f8e80f3f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.97dc4260.js",
-    "runtime-main.js.map": "/static/js/runtime-main.97dc4260.js.map",
-    "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
-    "static/js/2.d1c5fb8c.chunk.js": "/static/js/2.d1c5fb8c.chunk.js",
-    "static/js/2.d1c5fb8c.chunk.js.map": "/static/js/2.d1c5fb8c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.f26e749f.chunk.css.map": "/static/css/2.f26e749f.chunk.css.map",
-    "static/css/main.d87cbb72.chunk.css.map": "/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.d1c5fb8c.chunk.js.LICENSE.txt": "/static/js/2.d1c5fb8c.chunk.js.LICENSE.txt",
-    "static/media/horiseon.d4b9e913.png": "/static/media/horiseon.d4b9e913.png",
-    "static/media/linkedin.2d5b4510.png": "/static/media/linkedin.2d5b4510.png",
-    "static/media/omar.815eaf7f.PNG": "/static/media/omar.815eaf7f.PNG",
-    "static/media/password-generator.c156f82b.png": "/static/media/password-generator.c156f82b.png",
-    "static/media/pwa.844eee7a.png": "/static/media/pwa.844eee7a.png"
+    "main.css": "/reac-portfolio-app/static/css/main.e1ce61ea.chunk.css",
+    "main.js": "/reac-portfolio-app/static/js/main.f8e80f3f.chunk.js",
+    "main.js.map": "/reac-portfolio-app/static/js/main.f8e80f3f.chunk.js.map",
+    "runtime-main.js": "/reac-portfolio-app/static/js/runtime-main.65789433.js",
+    "runtime-main.js.map": "/reac-portfolio-app/static/js/runtime-main.65789433.js.map",
+    "static/css/2.f26e749f.chunk.css": "/reac-portfolio-app/static/css/2.f26e749f.chunk.css",
+    "static/js/2.d1c5fb8c.chunk.js": "/reac-portfolio-app/static/js/2.d1c5fb8c.chunk.js",
+    "static/js/2.d1c5fb8c.chunk.js.map": "/reac-portfolio-app/static/js/2.d1c5fb8c.chunk.js.map",
+    "index.html": "/reac-portfolio-app/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/reac-portfolio-app/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.e1ce61ea.chunk.css.map": "/reac-portfolio-app/static/css/main.e1ce61ea.chunk.css.map",
+    "static/js/2.d1c5fb8c.chunk.js.LICENSE.txt": "/reac-portfolio-app/static/js/2.d1c5fb8c.chunk.js.LICENSE.txt",
+    "static/media/horiseon.d4b9e913.png": "/reac-portfolio-app/static/media/horiseon.d4b9e913.png",
+    "static/media/linkedin.2d5b4510.png": "/reac-portfolio-app/static/media/linkedin.2d5b4510.png",
+    "static/media/omar.815eaf7f.PNG": "/reac-portfolio-app/static/media/omar.815eaf7f.PNG",
+    "static/media/password-generator.c156f82b.png": "/reac-portfolio-app/static/media/password-generator.c156f82b.png",
+    "static/media/pwa.844eee7a.png": "/reac-portfolio-app/static/media/pwa.844eee7a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.97dc4260.js",
+    "static/js/runtime-main.65789433.js",
     "static/css/2.f26e749f.chunk.css",
     "static/js/2.d1c5fb8c.chunk.js",
-    "static/css/main.d87cbb72.chunk.css",
+    "static/css/main.e1ce61ea.chunk.css",
     "static/js/main.f8e80f3f.chunk.js"
   ]
 }
