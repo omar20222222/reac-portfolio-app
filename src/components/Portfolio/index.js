@@ -4,22 +4,23 @@ import Project from "../Project";
 function Portfolio() {
   const [developers] = useState([
     {
-      image: "",
-      application: "",
-      github: "",
+      image: "pic1",
+      application: "https://omar20222222.github.io/password-generator/",
+      github: "https://github.com/omar20222222/password-generator/",
       name: "Photo Portfolio",
     },
     {
-      image: "",
-      application: "",
-      github: "",
+      image: "pic2",
+      application: "https://radiant-reaches-21203.herokuapp.com/",
+      github: "https://github.com/omar20222222/pwa-text-editor/",
       name: "Photo Portfolio",
     },
     {
-      image: "",
-      application: "",
-      github: "",
-      name: "",
+      image: "pic3",
+      application:
+        "https://omar20222222.github.io/marketing-agent/#search-engine-optimization",
+      github: "https://github.com/omar20222222/marketing-agent",
+      name: "Photo Portfolio",
     },
   ]);
 
