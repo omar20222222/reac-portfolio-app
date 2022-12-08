@@ -1,5 +1,5 @@
 import React from "react";
-import Cartoon from "../../assets/cart.jpg";
+// import Cartoon from "../../assets/cart.jpg";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function About() {
