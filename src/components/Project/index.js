@@ -26,12 +26,3 @@ function Project({ developer }) {
 }
 
 export default Project;
-
-// export default function Project() {
-//   return (
-//     <div>
-//       <h1>Project</h1>
-//       <p></p>
-//     </div>
-//   );
-// }

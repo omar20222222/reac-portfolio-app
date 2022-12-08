@@ -9,7 +9,7 @@ function About() {
         src={omar}
         className="py-2"
         style={{
-          width: "25%",
+          width: "20%",
           display: "block",
           marginLeft: "auto",
           marginRight: "auto",
@@ -17,9 +17,9 @@ function About() {
         alt="cover"
       />
       <h5 id="about" style={{ textAlign: "center", padding: "40px" }}>
-        WEllCOME TO MY Portfolio..
+        WElCOME TO MY Portfolio..
         <br />
-        HEllO! My name is Omar, I am 25 years old. Currently working as IT
+        HEllO! My name is Omar Ahmed, I am 25 years old. Currently working as IT
         Support technician Second Line for about 3 years ago. I chose to embark
         on this Boot camp course not only for an opportunity of a career change
         but to seek more challenges, enhance my knowledge of technology and
