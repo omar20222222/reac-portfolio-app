@@ -1,7 +1,8 @@
 // import logo from "./logo.svg";
-// import "./App.css";
-// import React from "react";
+import "./App.css";
+import React from "react";
 import PortfolioContainer from "./components/PortfolioContainer";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => <PortfolioContainer />;
 

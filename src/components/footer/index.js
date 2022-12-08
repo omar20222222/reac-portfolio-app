@@ -1,20 +1,30 @@
 import React from "react";
+import twitter from "../../assets/twitter.png";
 
-export default function Footer() {
+function Footer() {
+  const footerImages = [{ name: twitter }];
   return (
-    <div>
-      <h1>Footer</h1>
-    </div>
+    <footer>
+      <div className="flex-row" style={{ justifyContent: "center" }}>
+        {footerImages.map((footerImage) => (
+          <img
+            src={footerImage.name}
+            className="px-1 py-1 img-thumbnail mx-1"
+            style={{ width: "60px", height: "60px" }}
+            alt="cover"
+          />
+        ))}
+      </div>
+    </footer>
   );
 }
 
-import React from 'react'
-import '../../components/'
+export default Footer;
 
-export default function Footer() {
-    return (
-        <div>
-            <h1 className='footerText'>&copy; 2021 Priya Nagda</h1>
-        </div>
-    )
-}
+// export default function Footer() {
+//   return (
+//     <div>
+//       <h1>Footer</h1>
+//     </div>
+//   );
+// }
